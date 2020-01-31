@@ -35,7 +35,7 @@ Cidade / Região
 
 ## ATENÇÃO ❗️
 
-### A partir de 29/03 a publicação de vagas deve ocorrer somente no canal [Dev Stream - Vagas](https://t.me/devstream_vagas)
+### A partir de 29/03/2019 a publicação de vagas deve ocorrer somente no canal [Dev Stream - Vagas](https://t.me/devstream_vagas)
 - 💬 Tente manter o foco do assunto do grupo
 - Este grupo não é sobre EHI nem HTTP Injector!
 - 👨‍🏫👩‍🏫Tenha paciência com dúvidas e perguntas de iniciantes
